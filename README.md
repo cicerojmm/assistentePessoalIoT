@@ -1,4 +1,4 @@
-# assistente Pessoal IoT
+# Verônica - Assistente Pessoal IoT
 Assistente pessoal por comando de voz, utilizando a API do Google Cloud Speech escrita na linguagem Python.
 Exemplo de utilização da assistente com o microcontrolador ESP8266 na plataforma NodeMCU.
 
