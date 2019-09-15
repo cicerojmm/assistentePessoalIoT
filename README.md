@@ -3,3 +3,5 @@ Assistente pessoal por comando de voz, utilizando a API do Google Cloud Speech e
 Exemplo de utilização da assistente com o microcontrolador ESP8266 na plataforma NodeMCU.
 
 Biblioteca em Python: SpeechRecognition (https://github.com/Uberi/speech_recognition#readme)
+
+Slide da palestra apresentada na I Campus Party Goiás: https://bit.ly/2kiIQlv
